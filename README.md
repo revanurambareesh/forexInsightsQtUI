@@ -1,4 +1,4 @@
-# Forex Insights
+# Forex Insights (Archived)
 This repository contains my solution to the FX problem
 This tool scrapes the top popular websites of a company and analyses the data. This data is then converted into dataset after which a machine learning model is trained. Easy intuitive UI is also provided. More Details can be found in design document at STAGE 1 Documents/FX Problem.pdf
 
