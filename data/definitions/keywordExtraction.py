@@ -11,7 +11,7 @@ def rakeUP():
 	outputFile = 'oriList.csv'
 	inputFile = 'ScrapedData.txt'
 
-	rake_object = rake.Rake("rake/SmartStoplist.txt", 4, 1, 2)
+	rake_object = rake.Rake("rake/SmartStoplist.txt", 3, 1, 1)
 	sample_file = open(inputFile, 'r')
 	text = sample_file.read()
 	keywords = rake_object.run(text)
